@@ -1,5 +1,12 @@
 **Cross-Sentiment** is a sentiment classification AI model designed to leverage AMR graphs and graph CNNs to generalize meaning for cross-domain learning.
 
+Created by:
+* Shreeya Bekkam (bekkamsa@mail.uc.edu)
+* Jake Huseman (jakeh0916@gmail.com)
+* Aamandra Sandeep Thakur (thakurap@mail.uc.edu)
+
+One motivating use case for such a model is the classification of Amazon reviews, YouTube comments, or TikTok videos (based on textual transcript).
+
 See also **Cross-Domain Sentiment Classification using Semantic Representation** by Shichen Li, Zhongqing Wang, Xiaotong Jiang and Guodong Zhou.
 
 The following is a simple overview of the model training pipeline:
